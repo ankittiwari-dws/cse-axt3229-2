@@ -8,6 +8,9 @@ External Data source used to populate Heroku data sources is US Records from htt
 
 Heroku toolbelt commands used to execute scripts are:
 
+git add . , git commit , git push heroku master , and all the commands to push app to github and deploy in heroku.
+As i have used java so no other commands were requied.
+
 
 
 3)  What aspect of the implementation did you find easy, if any, and why?
